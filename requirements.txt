@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+pydantic
+python-dotenv
+anthropic
+sentence-transformers
+numpy
